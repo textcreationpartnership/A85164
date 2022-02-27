@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fatall blow; or, The most impious and treasonable fact of Hammond, in offering force unto, and hurting his sacred Majesty: discussed, and reparation pressed, by a suddain dissolution of the tyrannicall power of this present Parliament, a summary of whose wicked practices tending to the subversion of monarchie and murder of His Maiestie, and the enslaving of this nation is premised. The re-establishing of religion, and re-enthroning of His Maiestie by force and armes is propounded and justified. / Dedicated and directed to the people of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85164</idno>
+            <idno type="STC">Wing F541</idno>
+            <idno type="STC">Thomason E522_16</idno>
+            <idno type="STC">ESTC R206209</idno>
+            <idno type="EEBO-CITATION">99865382</idno>
+            <idno type="PROQUEST">99865382</idno>
+            <idno type="VID">117622</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85164)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117622)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 81:E522[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fatall blow; or, The most impious and treasonable fact of Hammond, in offering force unto, and hurting his sacred Majesty: discussed, and reparation pressed, by a suddain dissolution of the tyrannicall power of this present Parliament, a summary of whose wicked practices tending to the subversion of monarchie and murder of His Maiestie, and the enslaving of this nation is premised. The re-establishing of religion, and re-enthroning of His Maiestie by force and armes is propounded and justified. / Dedicated and directed to the people of England.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed, Anno Domini 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill: 12".</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hammond, Robert, 1621-1654 --  Early works to 1800.</term>
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117622:1" rendition="simple:additions"/>
+            <p>The Fatall Blow: <hi>OR,</hi> The moſt Impious and Treaſonable Fact of HAMMOND, In offering force unto, and hurting His SACRED MAIESTIE: Diſcuſſed, and REPARATION preſſed, by a ſuddain Diſſo<g ref="char:EOLhyphen"/>lution of the Tyrannicall Power of this preſent PARLIAMENT, A Summary of whoſe wicked Practices tending to the ſub<g ref="char:EOLhyphen"/>verſion of MONARCHIE and Murder of His MAIESTIE, and the Enſlaving of this Nation is premiſed.</p>
+            <p>There-eſtabliſhing of RELIGION, and re-enthroning of His MAIESTIE by Force and Armes is propounded and juſtified.</p>
+            <p>Dedicated and directed to the People of ENGLAND.</p>
+            <q>
+               <p>Now know I, that the Lord ſaveth his Annointed; he will hear him from his holy Heaven, with the ſaving ſtrength of his right hand.</p>
+               <bibl>Pſal. 20.6.</bibl>
+            </q>
+            <q>
+               <p>For the King trusteth in the Lord, and through the mercy of the most High he ſhall not miſcarry.</p>
+               <p>Thine hand ſhall finde out all thine Enemies; thy right hand ſhall finde out thoſe that hate thee.</p>
+               <bibl>Pſal. 21.7, 8.</bibl>
+            </q>
+            <p>
+               <hi>LONDON</hi> printed, <hi>Anno Domini</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117622:2"/>
+            <pb n="1" facs="tcp:117622:2"/>
+            <opener>
+               <salute>Good People of England,</salute>
+            </opener>
+            <p>CAn you be ſo dull complexioned, that you cannot in ſeven yeares learne (and what hath been ſo often whipt into you) one Leſſon, <hi>This Parliament will have no King?</hi> will you be baited into a ſlavery, and held faſt by the gills, by the old jugling, and deluding perſwaſions, of <hi>Religion, Liberty,</hi> and <hi>Property?</hi> Shall the infuſions of theſe <hi>Givens</hi> any longer continue you transformed from Men into Beaſts, to lye down like <hi>Aſſes</hi> under your Burthens, and to conceit that a ſlaviſh reſt is good? Can theſe <hi>Sorcerers</hi> make you any longer beleeve, that they are <hi>the great Power of God,</hi> when they are the manifeſt, and skild operators unto the Devill? Surely the <hi>Tolleration</hi> of all Religions and Hereſies, the keeping of an Army (modeld unto their own purpoſes) ſtill on foote, the <hi>Circumvention</hi> of your <hi>Liberties,</hi> the viſible and cunning <hi>Invaſion</hi> of your <hi>Properties,</hi> their whole <hi>Proceſſe</hi> with His Majeſty, and all the preſent practiſes in order unto the <hi>Subverſion of Monarthy</hi> in this Kingdome, and ſetting up for themſelves, cannot but ſtate it for a moſt unqueſtionable and <hi>meaſured Truth</hi> with you, O people of <hi>England,</hi> that <hi>this preſent Parliament will have no King,</hi> but reign, and rule themſelves, how and as they liſt; and this will be beyond diſpute, if you ſuddain<g ref="char:EOLhyphen"/>ly ſurvay their whole Conduit of this Deſigne: <hi>By their diſpoſing the three Kingdoms unto an Aptitude to receive their Impreſſions, and the univerſall Taint of Rebellion, by their pra<g ref="char:EOLhyphen"/>ctiſes with the Scots</hi> (an Irritable people) whom by their meer Encouragements, they draw into a Poſture of Hoſtility againſt His Majeſty, through their ſuggeſtions that He would introduce Popery, and an Arbitrary, and Tyrannicall forme of Government o<g ref="char:EOLhyphen"/>ver His People; <hi>By their corruption</hi> of diſcontented, poore, yet powerful, and Leading Per<g ref="char:EOLhyphen"/>ſons of <hi>Scotland</hi> to improve their Deſigne, <hi>By their Treachery unto</hi> and deſection of His Majeſty and His Army, raiſed (and able) to ſuppreſſe that Sedition, upon Tearmes of greateſt <hi>Diſadvatnage</hi> unto His Majeſty, and of higheſt <hi>Diſhonour</hi> unto this Nation; <hi>By Neceſſitating His Majeſty to call a Parliament</hi> (as the only remedy for the preſent Di<g ref="char:EOLhyphen"/>ſtempers) the Members whereof were for the prevailing part, <hi>an induſtriouſly packt Crue</hi> of Diſ-affected Perſons unto His Majeſty, unto the Government eſtabliſhed, and who did only drive at their own Ends; <hi>By their violent Ejection</hi> of Perſons well-affected un<g ref="char:EOLhyphen"/>to the King and Kingdome, out of both Houſes, and all places of Truſt and Importance; <hi>By their ſending abroad</hi> their owne evill Miniſtring-ſpirits, and hired Emiſſaries, thoſe <hi>Sampſons Foxes</hi> tyed together by the tayles, and fire-brands betwixt them, their facti<g ref="char:EOLhyphen"/>ous, illiterate, proſtitute, and phanatique Clergy, to ſet the ſtanding-Corne of the peo<g ref="char:EOLhyphen"/>ple into the fire of Rebellion; <hi>By their</hi> publiſhing, and countenancing Scandalous and Seditious Pamphlets, and Petitions againſt His Majeſtyes Royall Perſon and Govern<g ref="char:EOLhyphen"/>ment: <hi>By their</hi> enforcing the <hi>Iriſh</hi> into Rebellion (who made modeſt and humble Ad<g ref="char:EOLhyphen"/>dreſſes
+<pb n="2" facs="tcp:117622:3"/>unto them for Liberty of Conſcience, and the Protection of the received Law<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of that Kingdome) through their <hi>Menaces,</hi> that that Kingdome ſhould be no longer <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Nurſery of Popery, and of ſending thither an Army of ten thouſand <hi>Scots,</hi> to be maintai<g ref="char:EOLhyphen"/>ned by the 9<hi rend="sup">d</hi>. a <hi>Sunday</hi> to be levyed upon Recuſants; leaſt that Kingdome remaining intire, might come into His Majeſties Reſcue, when theſe Men intended to perfect their purpoſe of Vn-throning Him: <hi>By their</hi> levying Men and vaſt ſummes of Money, under pretence of ſuppreſſing that Rebellion, but employing them againſt His Majeſty only; for this purpoſe alſo, <hi>By their</hi> making deſperate, and exaſperating the <hi>Iriſh,</hi> both by the ſelling and re-ſelling of their Lands, (and much more than is in that Iſland) and ta<g ref="char:EOLhyphen"/>king from them all hope of Pardon, and denying unto them Quarter. <hi>By their</hi> ſending unto that ſervice (almoſt) onely ſuch Commanders and men, as were of His Majeſties Army in the North, doubting of their affections here, and then abandoning them unto all want and miſery there. This Parliament (beſides that they occaſioned the Rebellion, and the firſt Effuſion of blood in <hi>Ireland</hi>) having ſpilt more <hi>Engliſh</hi> blood by the <hi>wilfull neglect</hi> of them there, than the <hi>Iriſh</hi> did by their ſwords: <hi>By their</hi> defrauding the poore Proteſtants of <hi>Ireland</hi> of the Benevolence of the <hi>Dutch,</hi> and converting it unto their own uſes: <hi>By their</hi> breaking the late Peace in <hi>Ireland</hi> concluded by His Majeſties Auhority, through their tranſ-actions with the <hi>Spaniſh</hi> Ambaſſador, who dealt ſo effectually with the Popes <hi>Nuncio,</hi> and <hi>Owen Roe ô Neale</hi> (both Factors for <hi>Spayne</hi>) that they not only hindred that Peace, but in order unto this Parliamentary Deſign, ſeized upon the beſt ſtrengths of the <hi>Engliſh</hi> in <hi>Counaught,</hi> and almoſt all the <hi>Engliſh</hi> Holds and Quarters in <hi>Lemster: By their</hi> ſithence in-effective proſecution of the War there, and ſo only as to engage and entertaine both Parties there, as that they might only not be able to looks upon themſelves here, through which many thouſands have periſhed: In the entrance unto their Deſigne here, <hi>By bloodily tearing</hi> from the Kings ſides, His moſt faithfull, and conſult Counſellors and Servants, and either illegally taking away their lives, or con<g ref="char:EOLhyphen"/>ſtraining them unto flight: <hi>By their</hi> taking away firſt the Votes of, then the Biſhops themſelves, and by ſilencing and impriſoning the Orthodox Clergy, who might con<g ref="char:EOLhyphen"/>ſcionably informe the people of their Duties, and of the <hi>Neceſſity of Christian Obedience unto the Supream Magistrate</hi> His Majeſty: <hi>By extorting</hi> from His Majeſty Acts prejudi<g ref="char:EOLhyphen"/>ciall unto His Crown and Dignity, and ſuch only as might ſerve to advance their own Ends; (that for continuation of this preſent Parliament being forced to ſave the Queens life.) <hi>By their</hi> Abbetting men of moſt impudent Ambition, and Avarice, thoſe Members (not to be named without an Atonement firſt made, trained up in, and furniſhed with all Anti-monarchicall and diſhoneſt Principalls) and that againſt the very face of the King: <hi>By their</hi> ſtirring up of Tumults, Inſurrections, and Mutinyes, of the abuſed people and multitude, againſt His Majeſty and His moſt Loyall Subjects, thereby forcing Him, and them to leave <hi>London. By their</hi> Neceſſitating of His Maieſty (diveſted and made naked of all Habiliments and Military Preparations) unto a War; <hi>By their</hi> proſecu<g ref="char:EOLhyphen"/>tion of that War, with ſo much ſubtilty and cruelty: <hi>By their</hi> Ordnances to raiſe Mony and Men againſt His Maieſty, upon pretence to redeeme Him out of the hands of His evill Councell: <hi>By the</hi> Preaching of their Sycophant Clergy unto the people, largely
+<pb n="3" facs="tcp:117622:3"/>to contribute to this <hi>Worke,</hi> (who as <hi>Aaron did the Iſraelites</hi>) to bring forth their Calf, the Idoll at <hi>Weſtminſter, made the people naked unto their ſhame,</hi> and cheated them of their Plate, and the Woemen even of their Iewels and Rings: <hi>By their</hi> planting an unlimi<g ref="char:EOLhyphen"/>ted and Arbitrary power in themſelves: <hi>By their</hi> ſubverſion of the Fundamentall Laws of the Kingdom, and eſtabliſhing the boundleſſe Dictates of their own Ordnances: <hi>By their</hi> endeavours to diſpirit and enſlave the people of this Kingdom, by the over-awing power of an Army, heavy Impoſitions, and Free-Quarter, to enure them unto Bondage: <hi>By their</hi> Propoſitions in all Treaties, of matters unfit for Subiects to demand, and un<g ref="char:EOLhyphen"/>ſafe for a Prince to grant: <hi>By their</hi> Baniſhment, or Impoveriſhment of all that adhe<g ref="char:EOLhyphen"/>red unto His Maieſty: <hi>By their</hi> enriching themſelves with the whole Wealth and Spoils of the Kingdome: <hi>By their</hi> exportation of great and incredible ſummes of Money out of this Kingdome, and ſtoring it up in thoſe Seminaries of Schiſme, in <hi>New England,</hi> the Iſlands, and the Low-Countryes: <hi>By their</hi> drawing together of the ignorant, uncon<g ref="char:EOLhyphen"/>ſcionable, and their waged Clergy under the reputation of a <hi>National Synod</hi> (with exclu<g ref="char:EOLhyphen"/>ſion of the Orthodox) to forge forth ſuch a Body of Doctrinalls and Diſcipline, as might beſt be ſhaped to uphold their Anti-monarchicall Principles and Practiſes. <hi>By their</hi> Poyſoning the Fountains of Knowledge, the two Vniverſities, with the Satanical Infuſions of their Hereticall Doctors: <hi>By their conferring</hi> Preferments, and all places of Profit and Truſt upon their own Creatures onely: <hi>By their</hi> tranſlating all Trade and Traffique unto their own Partakers: <hi>By their</hi> moſt ſubtile and perjurous gayning His Majeſty out of the hands of the <hi>Scots,</hi> upon all aſſurances of Freedome, Safety, and Ho<g ref="char:EOLhyphen"/>nour: <hi>By their</hi> ſithence ſeverall Confinements, and Impriſonments of Him, as to breed a Contempt of Him in His People, ſo unparaleld occaſions of diſcontent, and the ſad ef<g ref="char:EOLhyphen"/>fects of that in Himſelfe, and to compell Him unto ſuch Conditions, as might make Him to pull the Crown from off His head, with his owne hands, and to ſet it upon theirs: <hi>By hireing</hi> his truſted Servants, under pretence of Safety to decoy Him into a place of ſtrongeſt, and ſtricteſt durance, and greateſt miſ-uſage: <hi>By their</hi> glorying with the people in their late Addreſſes unto His Majeſty in the Iſle of <hi>Wight;</hi> And offering ſuch Acts there as Subjects yet never tendred unto a King, or was poſſible for His Ma<g ref="char:EOLhyphen"/>jeſty to grant: <hi>By their</hi> adding unto the weight of all their Crueltyes againſt Him, for His denyall of Subſcription, and Royall Aſſent unto the Acts preſented; in the re<g ref="char:EOLhyphen"/>moveall of all His Servants, and Cloſet-Impriſonment: <hi>By their</hi> making an Ordnance, that no further <hi>Addreſſes ſhall be made unto His Majesty,</hi> and <hi>that they will take a further courſe to eſtabliſh the Kingdome without Him. i. e.</hi> To ſettle the Kingdome upon them<g ref="char:EOLhyphen"/>ſelves, unto which they make way: <hi>By their</hi> moſt falſe and forced Accuſations of His Majeſty; both to diſaffect His owne people at home, and to fore-ſtall their ayd, and to breed Contempt, and Neglect of Him abroad, publiſhing in all Languages of <hi>Europe,</hi> ſcandalous and baſe Vntruths of His Majeſty, to prevent forraigne Succours: Repreſen<g ref="char:EOLhyphen"/>ting His Sacred Majeſty unto the Proteſtants, a Papiſt, unto the Papiſts a Tyrant, and unto both a man of no Faith and unfit for Government: whereas nothing hath ſo much contributed unto the preſent Power of this Parliament, as the Contrivances of the moſt rigid of Papiſts, the <hi>Spaniard,</hi> or ſo much hindred His Maieſty of due Succours: Yea,
+<pb n="4" facs="tcp:117622:4"/>this their Deſigne is further manifeſted, <hi>by their</hi> ſuffering the decay of his Majeſties Houſes, <hi>by their ſale</hi> of his Lands, Houſhold-ſtuffe, and of the very Coates of his <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>by their</hi> mean and inferiour nurture of his Children here, (for Prince <hi>Charles</hi> is a <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> away,) put into ſuch hands as have neither the principles of Honour, honeſty, or Li<gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> Education in them, to embaſe the Spirits, to dwarfe the growing Endowment of theſe Royal Branches, and to diſpoſe and fit them to parity and the conſtitution of Leveller: <hi>by their</hi> denial to his Majeſty an opportunity (ſo frequently importuned by Him) to dear Himſelfe of thoſe odious Crimes they charge Him withall; as though they feared He Would leave the Load of all the late Miſchiefes at their own Door, or rather that they intended to condemne Him (though uncondemned) unheard.</p>
+            <p>What doth the Total of all theſe Severals reckoned and ſummoned up amount unto, but that they intend <hi>an Aſſaſſination, and privately</hi> in plain Engliſh <hi>to murder his Ma<g ref="char:EOLhyphen"/>jesty, to deveſt his Royal Poſterity of all Regality,</hi> to uſurpe the Imperial Crown of <hi>England,</hi> and to divide it amongſt themſelves; to attain the more eaſily to which, they now offer to the <hi>Scots</hi> (not to interrupt them here;) what ere in <hi>Ireland</hi> is in the Parliament po<g ref="char:EOLhyphen"/>wer: and to give you further teſtimony unto this Truth, becauſe they cannot truſt any ingenuous men, of the Gentry, and whoſe preſent Eſtate might intereſſe their Endea<g ref="char:EOLhyphen"/>vours in the Good of the Kingdom, they have placed the whole and ſole command of the Army, and all Places of Importance in men of as low, baſe, and deſperate For<g ref="char:EOLhyphen"/>tunes, as they are of contemptible Education, and ſuch whoſe Merits giving unto them no Riſe or advantage of Advancement, can promiſe that unto themſelves [onely] (be<g ref="char:EOLhyphen"/>ing for the greater part broken Tradesmen) in the continuance of the uſurped Power of this preſent Parliament, which they are engaged to ſupport; and into one of theſe Con<g ref="char:EOLhyphen"/>fiding Mens hands, have they contrived His Sacred Majeſty, into Goaler <hi>Hammonds;</hi> who (notwithſtanding his moſt ſolemne Proteſtations unto his Majeſty to treat Him well) promiſeth this Parliament, that <hi>He will obey all their Commands, although never ſo contrary to his ſence and honour; id eſt,</hi> his former Engagements to his Majeſty; ſo ab<g ref="char:EOLhyphen"/>ſolute is he their Creature. And to ſhew us how true he is unto this laſt Engagement, in his Majeſties late Reſiſtance of him in the Search of ſome Papers, <hi>He hath moſt impi<g ref="char:EOLhyphen"/>ouſly and traiterouſly wounded his Sacred Majeſty.</hi> The <hi>whole Earth</hi> will be amazed at this Fact: the <hi>Chriſtian World</hi> will tremble, and be highly offended at this greateſt <hi>Propha<g ref="char:EOLhyphen"/>nation of God in his Image:</hi> the Eares of poſterity will glow to reade, <hi>God himſelfe thus blasphemed and hurt in his immediate Delegate, Gods Vicar, Gods Annointed, our Soveraigne Lord King CHARLES.</hi> It was queſtionleſſe <hi>the Glory of Martyrdome</hi> theſe Men meant, when they promiſed to make His Majeſty a glorious Prince, for he hath been already <hi>A moſt worthy Confeſſour,</hi> the late condition of his Life being but a lingring Death: and indeed, what Kings of <hi>England</hi> have been impriſoned, whoſe Lives alſo have not been taken away? This paſſage no doubt is the <hi>Prologue</hi> unto the <hi>Tragedy</hi> they intend to <hi>Act,</hi> the horrid Murther of our Soveraigne: if the People diſguſt not this Fact of <hi>Hammonds,</hi> they promiſe unto themſelves impunity in their bloudy intend<g ref="char:EOLhyphen"/>ments againſt the Kings Life. This is the bleſſed Reformation of <hi>Weſtminſter,</hi> the Di<g ref="char:EOLhyphen"/>vine Religion derived thence. See what an harmony it hath with the Word of God:
+<pb n="5" facs="tcp:117622:4"/>
+               <hi>Touch not mine <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ed,</hi> Pſal. 105.15. (ſaith the Spirit of God.) <hi>Who can ſtretch forth his hand againſt the Lords <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ed and be guiltleſſe?</hi> 1 Sam. 26.9. ſaith <hi>David. Th<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> is no riſing up againſt a King,</hi> Prov. 31. ſaith <hi>Solomon.</hi> Here are Gods Letters Patents for the Kings Inviolability. But alas, an Ordinance of this Parliament can nullifie theſe, and warrant <hi>Hammonds</hi> violence unto his Majeſty. King <hi>Saul</hi> was a bloudy Tyrant, diſ-obedient unto Gods own Voyce, poſſeſſed with the <hi>Devil,</hi> an Idolater, and conſult<g ref="char:EOLhyphen"/>ed with Witches, he did moſt maliciouſly perſecute <hi>Davids</hi> Life, who had Gods Grane in Reverſion of the Kingdom; yet he could not entertain the thought of this Impiety in himſelfe, nor receive the violent Impreſſions thereof from others, when King <hi>Saul</hi> was in his power, he ſayes, <hi>God forbid that he ſhould lift up his hand againſt Gods Anointed;</hi> 1 Sam. 24.6. Yea more, <hi>His heart ſmote him</hi> when he cut off the skirt of <hi>Sauls</hi> garment, onely to teſtifie his Integrity unto his Prince. The young Amalekite but for haſtening <hi>Sauls</hi> Death, (who had already received his Deaths wound) although reſcued from the Enemy, and preſented <hi>David</hi> with the Crown and Regal Ornaments, was by <hi>David</hi> ſentenced to die, for not fearing to touch <hi>Gods Anointed,</hi> 2 Sam. 1.10. <hi>&amp;</hi> 14. And ſhall theſe Men eſcape puniſhment who perſecute a moſt pious Prince, whoſe whole carriage unbeſpeaks all the malicious ſuggeſtions of men wickedly buſie to undermine the pub<g ref="char:EOLhyphen"/>lique peace, and meets with all the needleſſe Iealouſies of peeviſh people. How hath he in order unto peace condiſcended to put down the <hi>High-Commiſſion</hi> and <hi>Star-Chamber</hi> Courts, the envied ſecular power of Biſhops, willingly conſigned his Forts, Ma<g ref="char:EOLhyphen"/>gazines, and Navy into the Diſpoſe of the Parliament; and notwithſtanding the abuſe of all theſe againſt His Royal Perſon and Crown; yet how hath <hi>He ſought peace, and purſued it,</hi> by the Gracious Offer of <hi>An Act of Indemnity; the Payment of the Army; by regard unto tender Conſciences, and the ſatisfaction of all Intereſts.</hi> All theſe things loudly proclame his integrity and great love unto his people, and his royal cle<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ncy unto all, ſo groſly abuſed by the <hi>Avarice</hi> and <hi>Hypocriſie</hi> of theſe deſperate Practicioners upon the Body politique, whoſe Deeds ſufficiently convey this Truth unto us, <hi>That this Parliament will have no King;</hi> and to that end, it is more than a probable coniecture, <hi>that they will murther the King.</hi>
+            </p>
+            <p>Let us no longer lie in that <hi>Lethargy</hi> the wicked practiſes this Parliament hath caſt us into, but redeem his Maieſty out of Captivity and the Iawes of Death, and vigo<g ref="char:EOLhyphen"/>rouſly, and effectually endeavour the re-eſtabliſhment of our firſt <hi>Reformation</hi> in <hi>Gods Church,</hi> and of his Maieſty in his Throne. Not to hinder a ſin when it is in our power, implies an approbation thereof, and makes the Guilt equal in the Permitters with the Actors of it: if we ſuffer theſe (as <hi>Pilate</hi> did the <hi>Jewes</hi>) to crucifie <hi>Chriſt, Gods Anointed,</hi> the whole Ocean cannot waſh off the guilt of it from us, <hi>But his Bloud will</hi> (alſo) <hi>be up<g ref="char:EOLhyphen"/>on us and our children.</hi> Let us then quit our ſelves like men, and re-inforce our <hi>firſt Re<g ref="char:EOLhyphen"/>formation and his Majeſties Rights;</hi> Sacred Truths, <hi>for which we ſhould be valiant; God ha<g ref="char:EOLhyphen"/>ving given a Banner unto all them that fear him, becauſe of his Truth,</hi> let us all draw up together under this <hi>Banner,</hi> to be ſet up for <hi>Truth,</hi> for God and King <hi>CHARLES;</hi> for our Religion and King, <hi>If we ought to lay down our lives for the Brethren,</hi> 1 Iohn 3.16. How much more now, when our eldeſt Brothers Life, <hi>our Kings Life worth ten thou<g ref="char:EOLhyphen"/>ſand
+<pb n="6" facs="tcp:117622:5"/>of our lives,</hi> and of many thouſand others our ſuffering Brethren nay, the life of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Religion</hi> and <hi>Liberty</hi> lies at ſtake: let us avoid no danger or hazard to preſerve the liv<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> theſe; let neither <hi>Scots</hi> nor <hi>Iriſh,</hi> or Forraigners, prevent us of the glory of this Chriſtian and pious Enterpriſe, and our bounden duty, but let us all riſe <hi>as one man,</hi> from <hi>Dan</hi> to <hi>Be<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<g ref="char:EOLhyphen"/>ſheba,</hi> and joyn our power <hi>to remove the Chair of violence, and Counſel of the <g ref="char:V">Ʋ</g>ngo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lly <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Weſtminſter;</hi> let theſe Impoſtours, and <hi>Deceivers of the People</hi> (who can plead no privi<g ref="char:EOLhyphen"/>ledge they have ſo highly abuſed all) be brought to condigne puniſhment, <hi>And as they have done let it be done unto them, let their Reward returne upon their own heads.</hi> Obad. <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. To which purpoſe, let us <hi>in the Name of God</hi> Arme and Ioyne with thoſe who will de<g ref="char:EOLhyphen"/>clare for the Re-eſtabliſhment of Religion, and his Maieſty: which courſe as it diſ<g ref="char:EOLhyphen"/>chargeth but our Duties unto God and our Prince, ſo it will avoid the effuſion of Chriſtian Bloud, ſave a vaſt expence of Treaſure, prevent the Devaſtation of our Coun<g ref="char:EOLhyphen"/>trey, continue our preſent, and beget a future plenty, re-inſtate the Kingdom in her former happineſſe, vindicate us in our long ſufferings, and render us honoured to the preſent Age, and glorious unto poſterity: let theſe our <hi>common and great intereſts,</hi> (ſuffi<g ref="char:EOLhyphen"/>cient Motives to engage the moſt fearfull ſpirits in the greateſt Dangers) <hi>animate us un<g ref="char:EOLhyphen"/>to this great and good Worke.</hi> King <hi>Davids</hi> prayer for his own ſafety, and his Enemies confuſion ſhall ſupply the Concluſion.</p>
+            <p>
+               <hi>Let not them O Lord ſay in their hearts, Ah, ſo would we have it: let them not ſay, We have ſwallowed him</hi> (the King) <hi>up.</hi> Pſal. 35, 25, 26, 27.</p>
+            <p>
+               <hi>Let them be aſhamed, and brought to confuſion together that rejoyce at his hurt, let them be cloathed with ſhame and diſhonour that magnifie themſelves against Him.</hi>
+            </p>
+            <p>
+               <hi>Let them ſhout for joy and be glad that favour his righteous Cauſe; yea, let them ſay con<g ref="char:EOLhyphen"/>tinually, Let the Lord be magnified, which hath pleaſure in the prosperity of his Servant</hi> [King <hi>CHARLES</hi>] And let all good People of <hi>England</hi> ſay, <hi>Amen.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
